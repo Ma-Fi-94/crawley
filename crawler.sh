@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2018 Ma-Fi-94
 
 read -p "Press any key to continue or CTRL-C to abort..."
 clear
