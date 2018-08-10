@@ -8,7 +8,7 @@ printf "Crawley v1.0 -- Crawler\n"
 printf "***********************\n\n"
 
 # Desired name of the log file goes here
-logfile="/home/mmf/Crawley/crawley.log"
+logfile="crawley.log"
 
 # Read URL list of sites to be crawled
 declare -a sites
